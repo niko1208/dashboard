@@ -1,0 +1,11 @@
+header{
+    background: #01c676;
+    height: 60px;
+    color: #fff;
+}
+nav{
+    width: 200px;
+    float: left;
+    height: calc(100vh - 60px);
+    background: #fff;
+}
